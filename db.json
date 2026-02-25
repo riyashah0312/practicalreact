@@ -1,0 +1,23 @@
+{
+  "students": [
+    {
+      "id": "1",
+      "name": "Riya",
+      "roll": "1010",
+      "class": "MCA"
+    },
+    {
+      "id": "1a11",
+      "name": "yashviii ",
+      "roll": "student",
+      "class": "36"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "username": "admin",
+      "password": "123"
+    }
+  ]
+}
